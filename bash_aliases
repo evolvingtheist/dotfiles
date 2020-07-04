@@ -9,4 +9,9 @@ alias python="python3"
 alias py="python3"
 alias pip="pip3"
 
+# Git aliases
+alias gat="git status"
+alias gad="git add"
+alias gom="git commit"
+alias gus="git push"
 
